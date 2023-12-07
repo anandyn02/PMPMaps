@@ -8,5 +8,5 @@
 import MapKit
 
 public class PMPMapAnnotation: MKPointAnnotation {
-    var imageName: String!
+   public var imageName: String!
 }
